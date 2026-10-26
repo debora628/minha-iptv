@@ -1,5 +1,52 @@
 #EXTM3U
-# Adicione abaixo somente URLs diretas de streams/conteúdos que você tenha autorização para usar.
-# Exemplo:
-#EXTINF:-1 group-title="Filmes",Exemplo de conteúdo autorizado
-# https://seu-servidor.example/conteudo.m3u8
+#EXTM3U
+# Lista de conteúdo gratuito e autorizado apenas
+# Atualizada em 26/10/2026
+
+# ==================================================
+# CANAIS ABERTOS - HD / Full HD / 4K
+# ==================================================
+
+# TV Brasil
+#EXTINF:-1 group-title="Canais Abertos | HD", TV Brasil - HD
+COLE_SEU_LINK_AQUI
+#EXTINF:-1 group-title="Canais Abertos | 4K", TV Brasil - 4K
+COLE_SEU_LINK_AQUI
+
+# TV Cultura
+#EXTINF:-1 group-title="Canais Abertos | HD", TV Cultura - HD
+COLE_SEU_LINK_AQUI
+#EXTINF:-1 group-title="Canais Abertos | Full HD", TV Cultura - Full HD
+COLE_SEU_LINK_AQUI
+
+# Canal Futura
+#EXTINF:-1 group-title="Canais Abertos | HD", Canal Futura - HD
+COLE_SEU_LINK_AQUI
+
+# TV Senado
+#EXTINF:-1 group-title="Canais Abertos | HD", TV Senado - HD
+COLE_SEU_LINK_AQUI
+
+# TV Câmara
+#EXTINF:-1 group-title="Canais Abertos | HD", TV Câmara - HD
+COLE_SEU_LINK_AQUI
+
+# ==================================================
+# FILMES GRATUITOS E LEGAIS - Domínio Público / Autorizados
+# ==================================================
+
+#EXTINF:-1 group-title="Filmes | Gratuitos", Filme - Ação (Gratuito)
+COLE_SEU_LINK_AQUI 
+#EXTINF:-1 group-title="Filmes | Gratuitos", Filme - Comédia (Gratuito)
+COLE_SEU_LINK_AQUI
+#EXTINF:-1 group-title="Filmes | Gratuitos", Filme - Drama (Gratuito)
+COLE_SEU_LINK_AQUI
+
+# ==================================================
+# SÉRIES GRATUITAS E LEGAIS
+# ==================================================
+
+#EXTINF:-1 group-title="Séries | Gratuitas", Série - Educativa
+COLE_SEU_LINK_AQUI
+#EXTINF:-1 group-title="Séries | Gratuitas", Série - Documentário
+COLE_SEU_LINK_AQUI
